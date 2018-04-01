@@ -48,6 +48,6 @@ Risa Theme bundles the following third-party resources:
 FitVids, Copyright by Chris Coyier and Paravel
 Source: https://github.com/davatron5000/FitVids.js/
 
-Photographs used on Screenshot, Copyright by Austin Schmid 
+Photographs used on Screenshot, Copyright by Nic 
 License: Creative Commons Zero (http://creativecommons.org/publicdomain/zero/1.0/)
-Source: https://unsplash.com/photos/jmrCWqmVxpU
+Source: http://littlevisuals.co
